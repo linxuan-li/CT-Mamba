@@ -42,7 +42,7 @@ We welcome your suggestions regarding our code. If you have any questions, feel 
 ```
 @misc{li2024ctmambahybridconvolutionalstate,
       title={CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising}, 
-      author={Linxuan Li and Wenjia Wei and Luyao Yang and Wenwen Zhang and Jiashu Dong and Wei Zhao},
+      author={Linxuan Li and Wenjia Wei and Luyao Yang and Wenwen Zhang and Jiashu Dong and Yahua Liu and Wei Zhao},
       year={2024},
       eprint={2411.07930},
       archivePrefix={arXiv},

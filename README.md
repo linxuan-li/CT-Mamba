@@ -36,7 +36,7 @@ We will provide detailed installation steps and usage instructions in the upcomi
 ## Contribution
 
 We welcome your suggestions regarding our code. If you have any questions, feel free to contact us via email at:
-[zy2219105@buaa.edu.cn] or [weiwenjia@buaa.edu.cn]
+[linxuan.li@163.com] or [weiwenjia@buaa.edu.cn]
 
 ## Citation
 ```

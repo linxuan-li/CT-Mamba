@@ -40,10 +40,10 @@ We welcome your suggestions regarding our code. If you have any questions, feel 
 
 ## Citation
 ```
-@misc{li2024ctmambahybridconvolutionalstate,
+@misc{li2025ctmambahybridconvolutionalstate,
       title={CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising}, 
-      author={Linxuan Li and Wenjia Wei and Luyao Yang and Wenwen Zhang and Jiashu Dong and Yahua Liu and Wei Zhao},
-      year={2024},
+      author={Linxuan Li and Wenjia Wei and Luyao Yang and Wenwen Zhang and Jiashu Dong and Yahua Liu and Hongshi Huang and Wei Zhao},
+      year={2025},
       eprint={2411.07930},
       archivePrefix={arXiv},
       primaryClass={eess.IV},

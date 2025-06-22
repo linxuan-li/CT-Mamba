@@ -11,10 +11,18 @@ This is the official implementation of the paper ***CT-Mamba: A Hybrid Convoluti
   <img src="Figures/Fig1.png" alt="The overall architecture of the proposed CT-Mamba. (b) The structure of the Multi-Scale Coherence Mamba architecture (MSC-Mamba)
 in CT-Mamba." width="70%">
 </p>
+<p align="center">
+  <em>Fig. 1. The overall architecture of the proposed CT-Mamba. (b) The structure of the Multi-Scale Coherence Mamba architecture (MSC-Mamba)
+in CT-Mamba.</em>
+</p>
 <hr />
 <p align="center">
   <img src="Figures/Fig2.png" alt="Detailed structure of the dual-branch Deep NPS Loss and its key components. (a) Structure of the Deep NPS Loss. (b) Detailed structure
 of the u-Feature Net." width="70%">
+</p>
+<p align="center">
+  <em>Fig. 2. Detailed structure of the dual-branch Deep NPS Loss and its key components. (a) Structure of the Deep NPS Loss. (b) Detailed structure
+of the u-Feature Net.</em>
 </p>
 <hr />
 

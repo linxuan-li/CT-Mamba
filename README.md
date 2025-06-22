@@ -7,6 +7,8 @@ Linxuan Li, Wenjia Wei, Luyao Yang, Wenwen Zhang, Jiashu Dong, Yahua Liu, Hongsh
 
 This is the official implementation of the paper ***CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising.***
 
+<img src="Figures/Fig1.png" alt="The overall architecture of the proposed CT-Mamba. (b) The structure of the Multi-Scale Coherence Mamba architecture (MSC-Mamba)
+in CT-Mamba." width="70%">
 <hr />
 
 ![fig1.png](Figures/Fig1.png)

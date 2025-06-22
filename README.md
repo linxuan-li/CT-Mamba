@@ -13,7 +13,7 @@ in CT-Mamba." width="70%">
 </p>
 <hr />
 <p align="center">
-  <img src="Figures/Fig1.png" alt="Detailed structure of the dual-branch Deep NPS Loss and its key components. (a) Structure of the Deep NPS Loss. (b) Detailed structure
+  <img src="Figures/Fig2.png" alt="Detailed structure of the dual-branch Deep NPS Loss and its key components. (a) Structure of the Deep NPS Loss. (b) Detailed structure
 of the u-Feature Net." width="70%">
 </p>
 <hr />

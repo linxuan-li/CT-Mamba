@@ -7,21 +7,17 @@ Linxuan Li, Wenjia Wei, Luyao Yang, Wenwen Zhang, Jiashu Dong, Yahua Liu, Hongsh
 
 This is the official implementation of the paper ***CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising.***
 
-<img src="Figures/Fig1.png" alt="The overall architecture of the proposed CT-Mamba. (b) The structure of the Multi-Scale Coherence Mamba architecture (MSC-Mamba)
+<p align="center">
+  <img src="Figures/Fig1.png" alt="The overall architecture of the proposed CT-Mamba. (b) The structure of the Multi-Scale Coherence Mamba architecture (MSC-Mamba)
 in CT-Mamba." width="70%">
+</p>
+<hr />
+<p align="center">
+  <img src="Figures/Fig1.png" alt="Detailed structure of the dual-branch Deep NPS Loss and its key components. (a) Structure of the Deep NPS Loss. (b) Detailed structure
+of the u-Feature Net." width="70%">
+</p>
 <hr />
 
-![fig1.png](Figures/Fig1.png)
-> **Fig. 1.** *The overall architecture of the proposed CT-Mamba. (b) The structure of the Multi-Scale Coherence Mamba architecture (MSC-Mamba)
-in CT-Mamba.* 
-<hr />
-
-<hr />
-
-![fig2.png](Figures/Fig2.png)
-> **Fig. 2.** *Detailed structure of the dual-branch Deep NPS Loss and its key components. (a) Structure of the Deep NPS Loss. (b) Detailed structure
-of the u-Feature Net.* 
-<hr />
 
 ## Current Status
 

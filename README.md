@@ -82,7 +82,9 @@ Then start training with:
 python Predict.py
 ```
 
-![result.png](Figures/Fig3.png)
+<p align="center">
+  <img src="Figures/Fig3.png" , width="70%">
+</p>
 
 
 ## 📚 Citation

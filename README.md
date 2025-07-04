@@ -1,5 +1,5 @@
 # CT-Mamba: A Hybrid Convolutional State Space Model for Low-Dose CT Denoising
-Linxuan Li, Wenjia Wei, Luyao Yang, Wenwen Zhang, Jiashu Dong, Yahua Liu, Hongshi Huang and Wei Zhao
+Linxuan Li[![Email](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=email)](mailto:linxuan.li@163.com), Wenjia Wei[![Email](https://img.shields.io/badge/-Email-blue?style=flat-square&logo=email)](mailto:weiwenjia@buaa.edu.cn), Luyao Yang, Wenwen Zhang, Jiashu Dong, Yahua Liu, Hongshi Huang and Wei Zhao
 [![paper](https://img.shields.io/badge/CMIG-Journal%20Paper-blue)](https://doi.org/10.1016/j.compmedimag.2025.102595) [![paper](https://img.shields.io/badge/arXiv-%20Paper-brightgreen)](https://arxiv.org/abs/2411.07930)
 
 ## 🐍 Project Introduction

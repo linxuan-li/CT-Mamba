@@ -74,6 +74,7 @@ python train/train_denoise.py
 ## 🚀 Inference
 You can use the provided pretrained model (trained on the AAPM-Mayo dataset):
 [![Download Pretrained Model](https://img.shields.io/badge/💾_Download-Pretrained_Model-blue?logo=google-drive)](https://drive.google.com/file/d/1mnbuAii42XhFUC7L_nM8qFnJs6tpXLk3/view?usp=sharing)
+
 Or use your own trained model for inference.
 
 Run the following command after configuring the parameters in Predict.py:

@@ -43,7 +43,7 @@ data/
 We provide a preprocessed version of the [AAPM-Mayo Low Dose CT Challenge 2016 dataset](https://www.aapm.org/GrandChallenge/LowDoseCT/).
 All images are normalized to the range [0, 1].
 
-[![Download Data](https://img.shields.io/badge/%F0%9F%93%82_Download--Preprocessed--Data-blue?logo=google-drive)](https://drive.google.com/drive/folders/1sEkeNTevdSkWzcpN1WBO_VDEjmQBVW3N?usp=sharing)
+[![Download Data](https://img.shields.io/badge/%F0%9F%93%82_Download-Preprocessed--Data-blue?logo=google-drive)](https://drive.google.com/drive/folders/1sEkeNTevdSkWzcpN1WBO_VDEjmQBVW3N?usp=sharing)
 
 
 Note: A constant shift (+1024 HU) has been added during preprocessing. To recover the original Hounsfield Units (HU):
